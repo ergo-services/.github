@@ -1,3 +1,3 @@
 ![rect5843](https://user-images.githubusercontent.com/118860/209967164-ed3288b3-2582-4e83-a9b2-4e862f3499a5.png)
 
-We are about to launch Stage 1 of our platform - "Cloud Overlay Network". Don't miss this event - leave your email here [https://ergo.services](https://ergo.services).
+Now you can join your services made with Ergo Framework into a single cluster with transparent networking using our **Cloud Overlay Network** where they can connect to each other smoothly, no matter where they run - AWS, Azure or GCP, or anywhere else (even behind the NAT). All these connections are secured with end-to-end encryption. Read more in this article [https://blog.ergo.services/cloud-overlay-network-3a133d47efe5](https://blog.ergo.services/cloud-overlay-network-3a133d47efe5). Here is an example of this feature in action [examples/cloud](https://github.com/ergo-services/examples/tree/master/cloud)
